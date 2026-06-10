@@ -108,7 +108,10 @@ if st.button("🚀 Ask GNITS Bot"):
 
         with st.spinner("Searching GNITS Knowledge Base..."):
 
-            answer = ask_question(query)
+            try:
+                answer = ask_question(query)
+            except Exception as e:
+                answer = f"Error: {str(e)}"
 
         st.markdown("### 🤖 Answer")
 
