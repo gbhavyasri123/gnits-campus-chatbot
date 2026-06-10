@@ -1,0 +1,34 @@
+event_name,event_type,date,venue,organizer,registration_process
+GNITS TechFest 2025,Technical Fest,2025-02-14,College Auditorium and All Departments,CSE and IT Departments,"Register at gnits.ac.in/techfest, Rs.150 per event, team events Rs.400"
+Code Odyssey - Coding Contest,Technical,2025-02-14,CSE Lab Block,Coding Club,"Online registration at gnits.ac.in/events, individual participation, Rs.100"
+Robo Wars,Technical,2025-02-15,Sports Ground,Robotics Club,"Team of 3-4, register at college office, Rs.500 per team"
+Web Design Challenge,Technical,2025-02-15,IT Lab 3,Web Development Club,"Individual or pairs, register online, Rs.100"
+AI Innovation Hackathon,Technical,2025-03-08,CSE Seminar Hall,AI/ML Club,"Teams of 2-4, register at gnits.ac.in, 24-hour hackathon, Rs.200 per team"
+Paper Presentation Competition,Academic,2025-02-22,ECE Seminar Hall,IEEE Student Branch,"Submit abstract by Feb 15, individual or pairs, free for IEEE members Rs.100 for others"
+Project Expo,Academic,2025-03-15,All Department Labs,All Departments,"Register with department coordinator, team projects, free participation"
+GNITS Cultural Fest - Utsav,Cultural Fest,2025-01-25,College Auditorium,Cultural Club,"Register for events at student affairs office, multiple events available"
+Classical Dance Competition,Cultural,2025-01-25,College Auditorium,Dance Club,"Solo or group entries, register at cultural club, Rs.100 per entry"
+Western Dance Competition,Cultural,2025-01-25,College Auditorium,Dance Club,"Solo or group entries, register at cultural club, Rs.100 per entry"
+Singing Competition,Cultural,2025-01-26,College Auditorium,Music Club,"Solo entries, register with music club coordinator, Rs.50"
+Drama and Skit Competition,Cultural,2025-01-26,College Auditorium,Drama Club,"Team of 5-10, submit script in advance, Rs.200 per team"
+Freshers Day Celebration,College Event,2025-08-20,College Auditorium,Student Affairs,"Freshers are guests, seniors coordinate activities, no registration needed"
+Independence Day Celebration,National Event,2025-08-15,College Ground,NSS Unit,Open to all students - no registration
+Republic Day Celebration,National Event,2025-01-26,College Ground,NSS Unit,Open to all students - no registration
+Teachers Day Celebration,College Event,2025-09-05,College Auditorium,Student Affairs,Open to all students - no registration
+Engineers Day,College Event,2025-09-15,College Auditorium,All Departments,Open to all students - no registration
+Alumni Meet 2025,Alumni Event,2025-12-20,College Auditorium,Alumni Association,"Registration for alumni at alumni.gnits.ac.in, students can attend as volunteers"
+Blood Donation Camp,Social Event,2025-10-02,Medical Center,NSS Unit,"Register with NSS coordinator, voluntary, open to eligible donors"
+Tree Plantation Drive,Social Event,2025-06-05,Campus Grounds,Environment Club,Open to all volunteers - sign up with club coordinator
+Career Guidance Seminar,Academic,2025-07-15,MBA Seminar Hall,Placement Cell,Open to all final year students - register at placement cell
+Industry Expert Talk - Google,Academic,2025-09-20,College Auditorium,Placement Cell,"Free, register at placement cell office, limited seats"
+Industry Expert Talk - TCS,Academic,2025-10-10,College Auditorium,Placement Cell,"Free, register at placement cell office"
+Mock Interview Drive,Placement,2025-11-05,Placement Cell,Placement Cell,"Final year students only, register at placement cell, free"
+Aptitude Training Workshop,Placement,2025-07-20,CSE Seminar Hall,Placement Cell,"Free for all students, register online at gnits.ac.in"
+Resume Building Workshop,Placement,2025-08-10,MBA Block Room 801,Placement Cell,"Free for pre-final and final year students, register at placement cell"
+Sports Day,Sports,2025-01-12,Sports Ground,Sports Club,"Register for specific events, team and individual events, free"
+Intercollegiate Cricket Tournament,Sports,2025-02-01,Cricket Ground,Sports Club,"College team selection in December, individual tryouts"
+Badminton Tournament,Sports,2025-11-20,Indoor Court,Sports Club,"Individual registration, Rs.50, open to all students"
+Annual Day,College Event,2025-03-28,College Auditorium,College Administration,Open to all students and staff - no registration
+Convocation Ceremony 2025,Academic,2025-04-15,College Auditorium,College Administration,Graduating students only - invitation based
+Science Exhibition,Academic,2025-12-10,Science Block,Mathematics and Humanities Departments,"Open to all students, register with department, team participation"
+Workshop on IoT,Technical,2025-09-25,ECE Lab,ECE Department,"Register at department office, Rs.200 includes kit, limited seats 50"

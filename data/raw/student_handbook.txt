@@ -1,0 +1,333 @@
+SOURCE: Generated Data based on JNTUH academic regulations and standard Indian engineering college student handbook content.
+
+================================================================
+GNITS STUDENT HANDBOOK 2024-25
+G. Narayanamma Institute of Technology and Science, Hyderabad
+================================================================
+
+FOREWORD
+---------
+Dear Students,
+Welcome to G. Narayanamma Institute of Technology and Science. This handbook is your guide to academic life at GNITS. Please read it carefully and follow the rules and regulations to make the most of your education here.
+- Dr. G. Saraswathi, Principal
+
+================================================================
+SECTION 1: ACADEMIC REGULATIONS
+================================================================
+
+1.1 ATTENDANCE RULES
+---------------------
+Minimum Attendance Requirement:
+- Students MUST maintain a minimum of 75% attendance in each subject
+- Attendance is calculated separately for Theory and Laboratory classes
+- Students falling below 75% in any subject will NOT be permitted to appear in semester-end examinations for that subject
+
+Condonation of Attendance:
+- Students with attendance between 65% and 75% may apply for condonation
+- Condonation is granted for genuine medical reasons with proper documentation
+- Application for condonation must be submitted to the Principal through the HoD
+- Maximum condonation: 10% (i.e., minimum 65% with valid reason)
+- Condonation is NOT automatic; each case is examined individually
+
+Calculation of Attendance:
+- Attendance is calculated from the first day of class to the last working day
+- Medical leave, college events, and sports representation do NOT automatically count as attendance
+- A medical certificate from a registered doctor must be submitted within 3 days of absence
+
+Detention:
+- Students detained due to shortage of attendance in any subject will not be promoted to next semester for that subject
+- They must re-appear in that subject in the subsequent academic year
+- Detained students' names will be notified on the college notice board
+
+Attendance Monitoring:
+- Attendance recorded in every class by faculty
+- Updated on college ERP fortnightly
+- Students and parents can view attendance on ERP portal
+- Automated SMS/email sent to parents when attendance falls below 80%
+
+1.2 EXAMINATION RULES
+----------------------
+Internal Assessment (IA):
+- Two Mid-Term exams conducted each semester
+- First Mid: After completion of first 50% of syllabus
+- Second Mid: After completion of entire syllabus
+- Each mid-term exam is for 30 marks (25 for written + 5 for assignments)
+- Best of two mids considered for 30% of internal marks OR average taken (as per JNTUH regulations)
+
+Continuous Internal Evaluation:
+- Assignments: 2 assignments per subject per semester
+- Seminars: As specified by subject faculty
+- Quiz/Viva: Conducted by faculty
+
+Semester End Examinations (External):
+- Conducted by JNTUH
+- Duration: 3 hours per paper
+- Maximum marks: 70 per paper
+- Minimum passing marks: 35 out of 70 (external) + minimum internal marks as per JNTUH norms
+
+Total Marks:
+- Internal (IA): 30 marks
+- External (JNTUH): 70 marks
+- Total: 100 marks per subject
+
+Passing Criteria:
+- Minimum pass marks: 35 in external examination
+- No separate minimum for internal (but must appear)
+- AGGREGATE: Students must score minimum 35 out of 70 in external exam
+
+Hall Ticket for Exams:
+- Students must have valid hall ticket to appear in examinations
+- Hall tickets issued only if: (i) attendance is 75% or above (or condonation granted), (ii) all fee dues are cleared, (iii) no disciplinary issues
+
+Supplementary Exams:
+- Students who fail in one or more subjects can appear in supplementary examinations
+- Supplementary exams conducted by JNTUH after semester results
+- Fees applicable for supplementary examination
+
+Advanced Supplementary:
+- JNTUH conducts advanced supplementary exams for students with backlogs
+- Schedule announced on JNTUH website
+
+1.3 GRADING SYSTEM (CBCS - Choice Based Credit System)
+--------------------------------------------------------
+GNITS follows JNTUH CBCS grading system:
+
+Grade Points:
+O  (Outstanding): 91-100 marks = 10 grade points
+A+ (Excellent):   81-90  marks = 9 grade points
+A  (Very Good):   71-80  marks = 8 grade points
+B+ (Good):        61-70  marks = 7 grade points
+B  (Above Average): 51-60 marks = 6 grade points
+C  (Average):     41-50  marks = 5 grade points
+P  (Pass):        35-40  marks = 4 grade points
+F  (Fail):        Below 35 external = 0 grade points (Fail)
+Ab (Absent):      Absent = 0 grade points
+
+SGPA (Semester Grade Point Average):
+SGPA = Sum of (Credit × Grade Point) / Sum of Credits in that semester
+
+CGPA (Cumulative Grade Point Average):
+CGPA = Sum of (Credit × Grade Point for all semesters) / Total Credits
+
+Credit Structure (B.Tech):
+- Theory subjects: 3 or 4 credits each
+- Laboratory subjects: 1.5 or 2 credits each
+- Project: 6 credits (final year)
+- Total credits for B.Tech: 160 credits approximately
+
+1.4 ACADEMIC CALENDAR
+-----------------------
+Semester I (Odd Semester): July/August to November/December
+- Classes begin: Last week of August
+- First Mid-term Exams: October
+- Second Mid-term Exams: November
+- Semester End Exams: November/December
+
+Semester II (Even Semester): January to May/June
+- Classes begin: First week of January
+- First Mid-term Exams: February/March
+- Second Mid-term Exams: April
+- Semester End Exams: May/June
+
+Summer Vacation: June to August
+Winter Break: December (approximately 2 weeks)
+
+================================================================
+SECTION 2: DISCIPLINE POLICIES
+================================================================
+
+2.1 CODE OF CONDUCT
+--------------------
+General Conduct:
+1. Students must always wear their college ID card visibly on campus
+2. Dress code: Girls must wear salwar kameez/churidar with dupatta or saree (traditional Indian attire) on regular days. Jeans and T-shirts permitted on Saturdays (non-formals day)
+3. Students must greet faculty and staff respectfully
+4. Use of mobile phones in classrooms, labs, and library is strictly prohibited
+5. Maintain cleanliness - do not litter on campus
+6. Students must not damage college property; damage will be penalized
+7. Smoking and consumption of alcohol/tobacco products is strictly prohibited on campus
+8. Respect all religions, cultures, and fellow students
+
+Classroom Conduct:
+1. Be present in class before faculty arrives; late entry after 5 minutes not permitted
+2. No talking or disturbance during lectures
+3. Attend all assigned classes; bunking is a disciplinary offense
+4. Submit assignments and records on time; late submission leads to mark deduction
+5. Mobile phones must be switched off or in silent mode during classes
+6. Lab manuals and records must be completed before lab sessions
+
+2.2 ANTI-RAGGING POLICY
+------------------------
+GNITS has ZERO TOLERANCE for ragging in any form.
+
+Definition of Ragging:
+Ragging includes any conduct (oral, written, physical, mental, cyber) that causes physical or psychological harm, discomfort, or humiliation to a student, especially freshers.
+
+Prohibited Acts:
+- Teasing, embarrassing, or physically assaulting students
+- Forcing students to perform acts against their will
+- Denying access to mess, hostel, or college facilities
+- Cyber ragging through social media
+
+Consequences:
+- Suspension or expulsion from college
+- Cancellation of admission
+- Suspension from hostel
+- FIR and criminal proceedings under Indian Penal Code
+- No mercy for repeat offenders
+
+Reporting:
+- Anti-ragging helpline: 1800-180-5522 (UGC)
+- Report to Anti-Ragging Committee: arc@gnits.ac.in
+- Anonymous complaints accepted
+- Complaint box at college entrance
+- All complaints treated confidentially
+
+Anti-Ragging Committee:
+- Chairman: Principal Dr. G. Saraswathi
+- Members: Senior faculty from all departments
+- Student representatives
+
+2.3 SEXUAL HARASSMENT PREVENTION (POSH)
+-----------------------------------------
+GNITS is committed to providing a safe environment free from sexual harassment. The Internal Complaints Committee (ICC) handles all complaints as per Prevention, Prohibition, and Redressal of Sexual Harassment Act 2013.
+
+Report to: icc@gnits.ac.in
+All complaints are treated with strict confidentiality.
+
+2.4 DISCIPLINARY COMMITTEE
+----------------------------
+- Cases of serious misconduct referred to Disciplinary Committee
+- Committee chaired by Principal
+- Student given opportunity to present their case
+- Actions range from warning to expulsion based on severity
+- Repeat offenders face stricter action
+
+Punishable Offenses:
+- Bunking classes repeatedly
+- Misbehavior with faculty or staff
+- Damage to college property
+- Theft
+- Substance abuse
+- Ragging
+- Spreading false information about college
+- Unauthorized access to restricted areas
+
+2.5 USE OF MOBILE PHONES
+--------------------------
+- Mobile phones NOT allowed inside classrooms and laboratories
+- Phones must be on silent mode in library and seminar halls
+- Phone photography/video inside classrooms is strictly prohibited
+- Violation: Phone confiscated, returned after 30 days; repeat offense leads to permanent confiscation
+
+================================================================
+SECTION 3: STUDENT RESPONSIBILITIES
+================================================================
+
+3.1 ACADEMIC RESPONSIBILITIES
+-------------------------------
+1. Attend all classes regularly and maintain 75%+ attendance
+2. Submit all assignments, lab records, and internal assessments on time
+3. Appear in all examinations with valid hall ticket
+4. Clear backlogs at earliest opportunity
+5. Maintain academic integrity - plagiarism in assignments leads to zero marks
+6. Participate in seminars, project work, and academic activities
+
+3.2 PERSONAL RESPONSIBILITIES
+-------------------------------
+1. Carry college ID card at all times on campus
+2. Inform HoD/class teacher if absent for more than 2 consecutive days
+3. Update personal and emergency contact information with college
+4. Clear all fee dues before deadline
+5. Return library books on time
+6. Maintain personal hygiene and cleanliness
+7. Inform parents/guardians of college activities and requirements
+
+3.3 COMMUNITY RESPONSIBILITIES
+--------------------------------
+1. Treat all fellow students, faculty, and staff with respect
+2. Participate in NSS, NCC, or other social activities
+3. Maintain campus cleanliness - use dustbins
+4. Report any suspicious activity or emergency to security
+5. Represent college positively in inter-college events
+
+================================================================
+SECTION 4: STUDENT WELFARE
+================================================================
+
+4.1 SCHOLARSHIPS
+-----------------
+Government Scholarships:
+1. Telangana State Fee Reimbursement Scheme (BC/SC/ST)
+2. Post Matric Scholarship (Central Government)
+3. Minorities Scholarship (for minority communities)
+4. EBC (Economically Backward Classes) scholarship
+5. PMSS (Prime Minister Scholarship Scheme) for wards of ex-servicemen
+
+Merit Scholarships:
+- GNITS merit scholarships for top rank holders in each department
+- District-level merit scholarships
+
+Sports Scholarships:
+- State and national level sports persons may be eligible for scholarships
+- Contact Student Affairs office for details
+
+Application Process:
+- All government scholarships applied through respective government portals
+- Telangana scholarships: telangana.gov.in/scholarship
+- Deadlines announced at the start of each academic year
+- Apply through Student Affairs office with required documents
+
+4.2 GRIEVANCE REDRESSAL
+-------------------------
+For Academic Grievances:
+- First contact: Subject faculty
+- If unresolved: HoD
+- Further escalation: Dean Academic Affairs
+- Last resort: Principal
+
+For Non-Academic Grievances:
+- First contact: Class teacher/Counselor
+- If unresolved: Dean of Student Affairs
+- Further escalation: Principal
+
+Online Grievance:
+- Submit at gnits.ac.in/grievance
+- All grievances acknowledged within 3 working days
+- Resolution target: 15 working days
+
+4.3 STUDENT COUNSELING
+------------------------
+Every student is assigned a faculty counselor at the beginning of each academic year. The counselor provides:
+- Academic guidance and monitoring
+- Attendance monitoring and parental communication
+- Personal counseling and support
+- Career guidance
+
+Professional Counseling:
+- Psychologist available on campus twice a week
+- Appointments through Student Affairs office
+- Confidential service
+
+4.4 STUDENT HEALTH
+-------------------
+- Annual health checkup organized by medical center
+- Insurance: Students covered under group student insurance policy
+- Medical emergency procedures posted in all blocks
+- First aid boxes available in all departments
+
+================================================================
+SECTION 5: IMPORTANT CONTACT NUMBERS
+================================================================
+
+Principal: 040-23004000 | principal@gnits.ac.in
+Registrar: 040-23004090 | registrar@gnits.ac.in
+Dean of Student Affairs: 040-23004091 | dsa@gnits.ac.in
+Training and Placement Officer: 040-23004092 | tpo@gnits.ac.in
+Library: 040-23004100 | library@gnits.ac.in
+Hostel A Warden: 040-23004110
+Hostel B Warden: 040-23004111
+Medical Center: 040-23004140
+Security (24x7): 040-23004199
+Anti-Ragging Helpline: 1800-180-5522 (toll free)
+JNTUH: 040-23158661 | jntuh.ac.in

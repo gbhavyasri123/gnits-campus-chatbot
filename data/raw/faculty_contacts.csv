@@ -1,0 +1,52 @@
+faculty_name,designation,department,email,phone,office_location
+Dr. S. Malathi,Professor & HOD,Computer Science and Engineering,hod.cse@gnits.ac.in,040-23004001,CSE Block - Room 101
+Dr. P. Srinivasa Rao,Professor,Computer Science and Engineering,p.srinivasarao@gnits.ac.in,040-23004002,CSE Block - Room 102
+Dr. K. Anuradha,Associate Professor,Computer Science and Engineering,k.anuradha@gnits.ac.in,040-23004003,CSE Block - Room 103
+Ms. T. Pavani,Assistant Professor,Computer Science and Engineering,t.pavani@gnits.ac.in,040-23004004,CSE Block - Room 104
+Ms. R. Swetha,Assistant Professor,Computer Science and Engineering,r.swetha@gnits.ac.in,040-23004005,CSE Block - Room 105
+Mr. V. Kiran Kumar,Assistant Professor,Computer Science and Engineering,v.kirankumar@gnits.ac.in,040-23004006,CSE Block - Room 106
+Ms. B. Mounika,Assistant Professor,Computer Science and Engineering,b.mounika@gnits.ac.in,040-23004007,CSE Block - Room 107
+Dr. N. Latha,Professor & HOD,Information Technology,hod.it@gnits.ac.in,040-23004010,IT Block - Room 201
+Dr. G. Madhavi,Professor,Information Technology,g.madhavi@gnits.ac.in,040-23004011,IT Block - Room 202
+Ms. A. Sirisha,Associate Professor,Information Technology,a.sirisha@gnits.ac.in,040-23004012,IT Block - Room 203
+Mr. P. Venkatesh,Assistant Professor,Information Technology,p.venkatesh@gnits.ac.in,040-23004013,IT Block - Room 204
+Ms. D. Kavitha,Assistant Professor,Information Technology,d.kavitha@gnits.ac.in,040-23004014,IT Block - Room 205
+Mr. S. Ravi Shankar,Assistant Professor,Information Technology,s.ravishankar@gnits.ac.in,040-23004015,IT Block - Room 206
+Dr. V. Usha Rani,Professor & HOD,Electronics and Communication Engineering,hod.ece@gnits.ac.in,040-23004020,ECE Block - Room 301
+Dr. C. Bhavani,Professor,Electronics and Communication Engineering,c.bhavani@gnits.ac.in,040-23004021,ECE Block - Room 302
+Ms. M. Padmaja,Associate Professor,Electronics and Communication Engineering,m.padmaja@gnits.ac.in,040-23004022,ECE Block - Room 303
+Mr. T. Suresh,Assistant Professor,Electronics and Communication Engineering,t.suresh@gnits.ac.in,040-23004023,ECE Block - Room 304
+Ms. K. Rekha,Assistant Professor,Electronics and Communication Engineering,k.rekha@gnits.ac.in,040-23004024,ECE Block - Room 305
+Mr. A. Mahesh,Assistant Professor,Electronics and Communication Engineering,a.mahesh@gnits.ac.in,040-23004025,ECE Block - Room 306
+Dr. B. Pushpalatha,Professor & HOD,Electrical and Electronics Engineering,hod.eee@gnits.ac.in,040-23004030,EEE Block - Room 401
+Dr. R. Sunitha,Professor,Electrical and Electronics Engineering,r.sunitha@gnits.ac.in,040-23004031,EEE Block - Room 402
+Ms. P. Aruna,Associate Professor,Electrical and Electronics Engineering,p.aruna@gnits.ac.in,040-23004032,EEE Block - Room 403
+Mr. K. Subrahmanyam,Assistant Professor,Electrical and Electronics Engineering,k.subrahmanyam@gnits.ac.in,040-23004033,EEE Block - Room 404
+Ms. S. Nagamani,Assistant Professor,Electrical and Electronics Engineering,s.nagamani@gnits.ac.in,040-23004034,EEE Block - Room 405
+Dr. M. Vijaya Lakshmi,Professor & HOD,Mechanical Engineering,hod.mech@gnits.ac.in,040-23004040,Mech Block - Room 501
+Dr. T. Ramesh,Professor,Mechanical Engineering,t.ramesh@gnits.ac.in,040-23004041,Mech Block - Room 502
+Mr. G. Srinivas,Associate Professor,Mechanical Engineering,g.srinivas@gnits.ac.in,040-23004042,Mech Block - Room 503
+Mr. N. Kishore,Assistant Professor,Mechanical Engineering,n.kishore@gnits.ac.in,040-23004043,Mech Block - Room 504
+Ms. L. Saritha,Assistant Professor,Mechanical Engineering,l.saritha@gnits.ac.in,040-23004044,Mech Block - Room 505
+Dr. K. Sarada,Professor & HOD,Mathematics,hod.maths@gnits.ac.in,040-23004050,Science Block - Room 601
+Dr. P. Vijaya,Professor,Mathematics,p.vijaya@gnits.ac.in,040-23004051,Science Block - Room 602
+Ms. B. Rajani,Associate Professor,Mathematics,b.rajani@gnits.ac.in,040-23004052,Science Block - Room 603
+Mr. S. Nagaraju,Assistant Professor,Mathematics,s.nagaraju@gnits.ac.in,040-23004053,Science Block - Room 604
+Ms. T. Hymavathi,Assistant Professor,Mathematics,t.hymavathi@gnits.ac.in,040-23004054,Science Block - Room 605
+Dr. V. Rama Devi,Professor & HOD,Humanities and Sciences,hod.hs@gnits.ac.in,040-23004060,Science Block - Room 701
+Dr. C. Sujatha,Professor,Humanities and Sciences,c.sujatha@gnits.ac.in,040-23004061,Science Block - Room 702
+Ms. M. Swapna,Associate Professor,Humanities and Sciences,m.swapna@gnits.ac.in,040-23004062,Science Block - Room 703
+Mr. K. Raju,Assistant Professor,Humanities and Sciences,k.raju@gnits.ac.in,040-23004063,Science Block - Room 704
+Ms. P. Deepika,Assistant Professor,Humanities and Sciences,p.deepika@gnits.ac.in,040-23004064,Science Block - Room 705
+Dr. N. Bhavani,Professor & HOD,Master of Business Administration,hod.mba@gnits.ac.in,040-23004070,MBA Block - Room 801
+Dr. S. Padmavathi,Professor,Master of Business Administration,s.padmavathi@gnits.ac.in,040-23004071,MBA Block - Room 802
+Ms. G. Lavanya,Associate Professor,Master of Business Administration,g.lavanya@gnits.ac.in,040-23004072,MBA Block - Room 803
+Mr. R. Naresh,Assistant Professor,Master of Business Administration,r.naresh@gnits.ac.in,040-23004073,MBA Block - Room 804
+Dr. T. Aruna,Professor & HOD,Master of Computer Applications,hod.mca@gnits.ac.in,040-23004080,MCA Block - Room 901
+Dr. K. Pushpa,Professor,Master of Computer Applications,k.pushpa@gnits.ac.in,040-23004081,MCA Block - Room 902
+Ms. V. Madhuri,Associate Professor,Master of Computer Applications,v.madhuri@gnits.ac.in,040-23004082,MCA Block - Room 903
+Mr. B. Praveen,Assistant Professor,Master of Computer Applications,b.praveen@gnits.ac.in,040-23004083,MCA Block - Room 904
+Dr. G. Saraswathi,Principal,Administration,principal@gnits.ac.in,040-23004000,Administrative Block - Principal Office
+Mr. P. Ramakrishna,Registrar,Administration,registrar@gnits.ac.in,040-23004090,Administrative Block - Room 001
+Ms. K. Suneetha,Dean of Student Affairs,Administration,dsa@gnits.ac.in,040-23004091,Administrative Block - Room 002
+Mr. V. Narayana,Training and Placement Officer,Placement Cell,tpo@gnits.ac.in,040-23004092,Placement Cell - Ground Floor

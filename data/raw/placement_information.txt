@@ -1,0 +1,203 @@
+SOURCE: Generated Data based on typical GNITS placement information and standard Indian engineering college placement practices.
+
+================================================================
+GNITS TRAINING AND PLACEMENT CELL - COMPLETE INFORMATION
+G. Narayanamma Institute of Technology and Science, Hyderabad
+================================================================
+
+ABOUT THE PLACEMENT CELL
+--------------------------
+The Training and Placement Cell (T&P Cell) at GNITS is dedicated to providing career opportunities to students through campus placements, internships, and industry interactions. The cell works throughout the year to prepare students for the corporate world and facilitate their career growth.
+
+Contact: tpo@gnits.ac.in | Phone: 040-23004092
+Location: Administrative Block - Ground Floor, Room G1
+Timings: Monday to Saturday, 9:00 AM to 5:00 PM
+
+TRAINING AND PLACEMENT OFFICER (TPO)
+--------------------------------------
+Name: Mr. V. Narayana
+Email: tpo@gnits.ac.in
+Phone: 040-23004092
+
+PLACEMENT PROCESS
+------------------
+Step 1: Registration
+- Students must register with the T&P Cell at the beginning of their final year
+- Fill the placement registration form available at the placement cell office or online at gnits.ac.in/placement
+- Submit updated resume, recent photograph, and copies of marksheets
+
+Step 2: Pre-Placement Training
+- Compulsory aptitude training for all registered students
+- Soft skills and communication workshops
+- Technical skills enhancement sessions
+- Mock interviews and group discussions
+
+Step 3: Company Registration
+- Companies visit the GNITS placement portal to register
+- Companies submit Job Description (JD) with eligibility criteria
+- T&P Cell circulates JD to eligible students
+
+Step 4: Application Process
+- Eligible students apply through the placement portal
+- T&P Cell compiles shortlisted student profiles
+- Profiles shared with recruiting company
+
+Step 5: On-Campus Recruitment
+- Aptitude/Written Test
+- Technical Interview (1 or 2 rounds)
+- HR Interview
+- Final selection and offer letter
+
+Step 6: Offer Letter and Joining
+- Placement cell verifies and distributes offer letters
+- Students must inform placement cell of their joining status
+
+ELIGIBILITY CRITERIA FOR PLACEMENT
+------------------------------------
+1. Minimum 60% aggregate in all semesters (some companies require 65% or 70%)
+2. No active backlogs at the time of campus drive
+3. Registered with T&P Cell before campus season begins
+4. Students who have already accepted an offer from another company may not participate (single placement policy - varies by company)
+5. B.Tech, M.Tech, MBA, and MCA final year students are eligible
+
+PLACEMENT STATISTICS (2023-24)
+--------------------------------
+Total Students Placed: 450+
+Highest Package: 12 LPA (Lakhs Per Annum)
+Average Package: 4.5 LPA
+Median Package: 3.8 LPA
+Number of Companies Visited: 80+
+Placement Percentage: 85%
+
+MAJOR RECRUITERS - IT/SOFTWARE COMPANIES
+------------------------------------------
+1. Tata Consultancy Services (TCS) - Regular recruiter, packages from 3.5 LPA
+2. Infosys - Regular recruiter, packages from 3.6 LPA
+3. Wipro - Regular recruiter, packages from 3.5 LPA
+4. Cognizant - Regular recruiter, packages from 4 LPA
+5. HCL Technologies - Packages from 3.8 LPA
+6. Tech Mahindra - Packages from 3.5 LPA
+7. Capgemini - Packages from 4 LPA
+8. Accenture - Packages from 4.5 LPA
+9. IBM - Packages from 5 LPA
+10. Oracle - Selective hiring, packages from 6 LPA
+11. Microsoft - Very selective, packages from 10+ LPA
+12. Amazon - Very selective, packages from 8+ LPA
+13. Mphasis - Packages from 3.8 LPA
+14. Hexaware Technologies - Packages from 3.5 LPA
+15. L&T Infotech (LTIMindtree) - Packages from 4 LPA
+
+CORE ENGINEERING COMPANIES
+----------------------------
+1. BHEL - Electrical/Mechanical engineers
+2. NTPC - Electrical engineers
+3. HAL - ECE/Mechanical engineers
+4. DRDO - All engineering branches
+5. BEL - ECE engineers
+6. Siemens - EEE/ECE engineers
+7. Schneider Electric - EEE engineers
+
+BANKING AND FINANCE COMPANIES
+-------------------------------
+1. HDFC Bank - MBA students
+2. ICICI Bank - MBA students
+3. Axis Bank - MBA students
+4. Deloitte - MBA/MCA students
+
+PRE-PLACEMENT TRAINING ACTIVITIES
+------------------------------------
+The T&P Cell conducts year-round training to prepare students:
+
+1. Aptitude Training
+   - Quantitative aptitude
+   - Logical reasoning
+   - Verbal ability
+   - Data interpretation
+   - Duration: Regular sessions from 2nd year onwards
+
+2. Technical Training
+   - Programming in C, C++, Java, Python
+   - Data Structures and Algorithms
+   - Database Management (SQL)
+   - Operating System concepts
+   - Computer Networks basics
+   - Duration: 3rd and 4th year
+
+3. Soft Skills Training
+   - Communication skills (spoken and written English)
+   - Group discussion techniques
+   - Presentation skills
+   - Email and professional communication
+   - Duration: Integrated throughout all years
+
+4. Mock Interviews
+   - Conducted every semester for final year students
+   - Industry professionals invited as mock interviewers
+   - Feedback provided individually
+   - Resume review and improvement sessions
+
+5. Industry Interaction
+   - Guest lectures by industry experts
+   - Industrial visits to IT companies in Hyderabad
+   - Internship guidance sessions
+   - Alumni interaction programs
+
+INTERNSHIP INFORMATION
+-----------------------
+Duration: 2 months (June-July) for B.Tech 3rd year students
+Types:
+- Company sponsored internships
+- Self-arranged internships (require T&P Cell approval)
+- Research internships at IITs/NITs (SRIP, IIT summer programs)
+- Government internships (DRDO, ISRO, BARC)
+
+Internship Registration:
+- Students must inform T&P Cell about internship opportunities
+- Company offer letter must be submitted to T&P Cell
+- Internship report and certificate mandatory after completion
+- Internships may convert to Pre-Placement Offers (PPOs)
+
+Credit for Internship: Mandatory as per JNTUH curriculum (Industrial Training credits)
+
+PLACEMENT PREPARATION GUIDELINES
+-----------------------------------
+For 1st and 2nd Year Students:
+- Focus on CGPA (aim for 7.0+)
+- Learn one programming language thoroughly (C/C++/Java/Python)
+- Build logical reasoning skills
+- No active backlogs
+
+For 3rd Year Students:
+- Maintain 60%+ aggregate
+- Learn DSA thoroughly
+- Practice on LeetCode, CodeChef, HackerRank
+- Apply for internships
+- Build projects and add to resume
+- Prepare aptitude through books like RS Aggarwal, Arun Sharma
+
+For Final Year Students:
+- Register with T&P Cell immediately
+- Update and polish resume
+- Practice mock interviews
+- Attend all aptitude and technical training sessions
+- Attend company pre-placement talks (PPTs)
+- Follow T&P Cell notice board and WhatsApp group
+
+PLACEMENT PORTAL
+-----------------
+URL: gnits.ac.in/placement
+Features:
+- Student profile creation
+- Resume upload
+- Company JD browsing
+- Application submission
+- Interview schedule viewing
+- Placement statistics
+
+IMPORTANT POLICIES
+-------------------
+1. Students placed in a company through GNITS campus placement should inform the T&P Cell
+2. Multiple offers: Students should discuss with TPO before accepting multiple offers
+3. Absconding: Students who are shortlisted and absent without prior intimation may be banned from future drives
+4. Dress code: Formal dress code mandatory for all placement drives
+5. Identity card: College ID card mandatory during campus drives

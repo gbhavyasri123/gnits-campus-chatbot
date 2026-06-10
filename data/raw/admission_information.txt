@@ -1,0 +1,170 @@
+SOURCE: Generated Data based on JNTUH affiliated college admission procedures and standard Telangana engineering college admission practices.
+
+================================================================
+GNITS ADMISSIONS INFORMATION
+G. Narayanamma Institute of Technology and Science, Hyderabad
+================================================================
+
+ABOUT GNITS
+------------
+G. Narayanamma Institute of Technology and Science (GNITS) is a premier women's engineering college located in Shaikpet, Hyderabad, Telangana. Established in 1997, it is affiliated to Jawaharlal Nehru Technological University Hyderabad (JNTUH) and approved by AICTE. The college is NAAC accredited and offers undergraduate and postgraduate programs.
+
+Address: Pjts Nagar, Shaikpet, Hyderabad, Telangana - 500008
+Phone: 040-23004000
+Email: admissions@gnits.ac.in
+Website: gnits.ac.in
+
+PROGRAMS OFFERED
+-----------------
+Undergraduate (B.Tech) - 4 Years:
+1. Computer Science and Engineering (CSE) - 120 seats
+2. Information Technology (IT) - 60 seats
+3. Electronics and Communication Engineering (ECE) - 60 seats
+4. Electrical and Electronics Engineering (EEE) - 60 seats
+5. Mechanical Engineering - 60 seats
+
+Postgraduate (M.Tech) - 2 Years:
+1. Computer Science and Engineering - 18 seats
+2. VLSI System Design - 18 seats
+
+Master of Business Administration (MBA) - 2 Years: 60 seats
+Master of Computer Applications (MCA) - 3 Years: 60 seats
+
+B.TECH ADMISSION PROCEDURE
+----------------------------
+GNITS B.Tech admissions are done through:
+
+1. EAMCET (Engineering Agriculture and Medical Common Entrance Test) - Telangana State
+   - Conducted by TSCHE (Telangana State Council of Higher Education)
+   - Based on rank in TS EAMCET exam
+   - 70% seats (Category A) filled through EAMCET counseling
+   
+2. Management Quota (Category B)
+   - 30% seats filled by college management
+   - Based on merit in qualifying examination and interview
+   
+3. NRI Quota
+   - For Non-Resident Indian students
+   - Apply directly to college with required documents
+
+CATEGORY A SEATS (EAMCET):
+Step 1: Appear for TS EAMCET (usually in May)
+Step 2: Download hall ticket and rank card from TS EAMCET website
+Step 3: Wait for counseling schedule published by TSCHE
+Step 4: Register for web counseling on tsche.ac.in
+Step 5: Pay counseling fee (Rs. 1200 for OC, Rs. 600 for BC/SC/ST)
+Step 6: Exercise web options (preferred colleges and branches)
+Step 7: Seat allotment announced based on rank, category, and preferences
+Step 8: Report to college with documents for admission
+
+CATEGORY B SEATS (MANAGEMENT):
+Step 1: Contact GNITS admissions office directly
+Step 2: Fill application form (available at college or online)
+Step 3: Submit required documents
+Step 4: Appear for merit/interview if required
+Step 5: Fee payment and confirmation
+
+ELIGIBILITY CRITERIA
+---------------------
+B.Tech:
+- Must have passed 10+2 (Intermediate) with Mathematics, Physics, and Chemistry
+- Minimum 45% aggregate in PCM (40% for reserved categories)
+- Must have valid TS EAMCET rank (for Category A seats)
+- Age: 17 years as on December 31 of admission year
+
+M.Tech:
+- B.Tech/B.E. in relevant branch from recognized university
+- Minimum 50% aggregate (45% for reserved categories)
+- Valid GATE score preferred (mandatory for JNTUH stipend)
+- TS PGECET rank for state quota seats
+
+MBA:
+- Any bachelor's degree with minimum 50% aggregate
+- Valid ICET (Integrated Common Entrance Test) score for Telangana state seats
+- Must have completed 10+2+3 years of education
+
+MCA:
+- Bachelor's degree in relevant field with Mathematics as one subject
+- Minimum 50% aggregate
+- Valid ICET score
+
+REQUIRED DOCUMENTS FOR ADMISSION
+----------------------------------
+Original Documents:
+1. SSC (10th) Marks Memo and Certificate
+2. Intermediate (10+2) Marks Memo and Certificate
+3. Transfer Certificate from previous institution
+4. Migration Certificate (for students from other state boards)
+5. EAMCET Hall Ticket and Rank Card
+6. Caste Certificate (for reserved category students)
+7. Income Certificate (for EWS/fee reimbursement)
+8. Residence Certificate (Domicile)
+9. Aadhar Card
+10. Passport-size photographs (10 copies)
+
+Documents to Submit Copies:
+- All original documents above (attested photocopies - 2 sets)
+- Parent's/Guardian's ID and address proof
+- Bank account details for fee reimbursement (if eligible)
+
+FEE STRUCTURE (APPROXIMATE - 2024-25)
+---------------------------------------
+B.Tech (per year):
+- Tuition Fee: Rs. 1,25,000 (subject to TSEMF revision)
+- Special Fee: Rs. 5,000
+- Exam Fee: Rs. 2,500 per semester
+- Total approximate: Rs. 1,35,000 per year
+
+Note: Fee reimbursement available for eligible students under Telangana government scheme (family income below Rs. 2 lakhs per annum for BC/SC/ST students)
+
+M.Tech (per year):
+- Tuition Fee: Rs. 75,000
+- GATE scholars with scholarship: Rs. 12,400 per month (MHRD scholarship)
+
+MBA (per year): Rs. 80,000
+MCA (per year): Rs. 65,000
+
+FEE PAYMENT PROCESS:
+1. Online payment through college ERP at gnits.ac.in/erp
+2. NEFT/RTGS to college account
+3. Demand Draft (DD) in favor of "GNITS" payable at Hyderabad
+4. Cash payment at college fees counter
+
+FEE REIMBURSEMENT:
+- Telangana government provides fee reimbursement for eligible SC/ST/BC/EBC students
+- Income limit: Rs. 2 lakhs per annum for BC, Rs. 2 lakhs for SC/ST
+- Students must apply through Telangana ePASS portal
+- Income certificate and caste certificate mandatory
+
+COUNSELING PROCESS (TS EAMCET)
+--------------------------------
+Phase 1: Certificate Verification
+- Visit college assigned to you for document verification
+- Original documents must be presented
+- Take printout of allotment order
+
+Phase 2: Joining and Fee Payment
+- Report to allotted college on specified date
+- Submit documents and pay first year fee
+- Collect admission order and ID card
+
+Phase 3: Sliding/Upgradation (if applicable)
+- Students can participate for better seat/college
+- Freezing option available once satisfied with allotment
+
+IMPORTANT DATES (APPROXIMATE - 2025)
+--------------------------------------
+TS EAMCET Exam: May 2025
+Results: June 2025
+Certificate Verification: July 2025
+Web Counseling: July-August 2025
+College Reporting: August 2025
+Classes Begin: August-September 2025
+
+CONTACT FOR ADMISSIONS
+-----------------------
+Admissions Office:
+- Email: admissions@gnits.ac.in
+- Phone: 040-23004000 / 040-23004001
+- Timings: Monday to Saturday, 9:00 AM to 5:00 PM
+- Location: Administrative Block, Ground Floor

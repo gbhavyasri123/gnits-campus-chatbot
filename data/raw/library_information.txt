@@ -1,0 +1,212 @@
+SOURCE: Generated Data based on standard GNITS library information and typical Indian engineering college library practices.
+
+================================================================
+GNITS CENTRAL LIBRARY - COMPLETE INFORMATION
+G. Narayanamma Institute of Technology and Science, Hyderabad
+================================================================
+
+OVERVIEW
+---------
+The GNITS Central Library is a well-equipped knowledge center with a vast collection of books, journals, and digital resources. It supports academic, research, and co-curricular activities of students and faculty.
+
+Location: Library Building, Ground Floor, GNITS Campus
+Contact: library@gnits.ac.in | 040-23004100
+Librarian: Ms. B. Sarada
+Assistant Librarians: Ms. T. Vijaya, Mr. K. Ramu
+
+LIBRARY TIMINGS
+----------------
+Regular Days (Monday to Saturday):
+- Morning Session: 8:00 AM to 12:30 PM
+- Afternoon Session: 1:30 PM to 5:30 PM
+- Extended Hours: 6:00 PM to 8:00 PM (Reading Room only)
+
+Sunday:
+- 9:00 AM to 1:00 PM (Reading Room only)
+
+Exam Time (One week before and during exams):
+- 8:00 AM to 9:00 PM (Extended hours)
+- Sunday: 9:00 AM to 5:00 PM
+
+Holidays:
+- Library closed on National Holidays
+- Partial service on college festivals
+
+LIBRARY COLLECTION
+-------------------
+Total Books: 55,000+ volumes
+Titles: 15,000+ unique titles
+National Journals: 45+
+International Journals: 25+
+E-Books: 10,000+ (through NPTEL and N-LIST)
+Back Volumes of Journals: 500+
+CDs/DVDs: 1,000+
+Project Reports: 2,000+ (Final year student projects)
+Theses and Dissertations: 500+
+
+Subject Coverage:
+- Computer Science and Engineering
+- Information Technology
+- Electronics and Communication
+- Electrical Engineering
+- Mechanical Engineering
+- Mathematics and Sciences
+- Humanities and English
+- Management (MBA)
+- Computer Applications (MCA)
+
+MEMBERSHIP RULES
+-----------------
+Eligibility:
+- All enrolled students of GNITS are automatically library members
+- Faculty and staff are members for the duration of their employment
+- Library card issued at the time of admission
+
+Library Card:
+- Students must produce library card for all transactions
+- Loss of library card: Report immediately to librarian, Rs.100 for duplicate card
+- Library card is non-transferable
+
+BOOK BORROWING PROCESS
+-----------------------
+Step 1: Search for book using OPAC (Online Public Access Catalogue) system at library entrance terminals or online at gnits.ac.in/library
+
+Step 2: Note down the book's accession number and shelf location
+
+Step 3: Locate the book from the shelf
+
+Step 4: Present book and library card at the issue counter
+
+Step 5: Librarian will stamp the due date on the book's date slip
+
+Step 6: Return book before due date
+
+BORROWING LIMITS:
+- B.Tech Students: 3 books at a time, for 14 days
+- M.Tech/MBA/MCA Students: 4 books at a time, for 21 days
+- Faculty: 10 books at a time, for 1 semester
+- Ph.D. Scholars: 6 books at a time, for 1 month
+
+RENEWAL POLICY:
+- Books can be renewed once if no other reservation exists
+- Renewal must be done before due date
+- Renewal at library counter or online through library portal
+- Maximum one renewal per book
+
+RESERVATION POLICY:
+- If book is already issued, student can place a reservation
+- Reserved books held for 3 days after return
+- Student notified via SMS/email when reserved book is available
+
+FINE STRUCTURE
+---------------
+Late Return Fine:
+- B.Tech Students: Rs. 2 per day per book after due date
+- M.Tech/MBA/MCA Students: Rs. 2 per day per book after due date
+- Faculty: Rs. 5 per day per book after due date
+
+Lost Book:
+- Student must report immediately
+- Replace with same edition OR pay double the cost of the book
+- Minimum replacement cost: Rs. 500
+
+Damaged Book:
+- Minor damage: Rs. 50 fine
+- Major damage: Replacement cost of book
+- Torn pages, writing in book: Rs. 100 + damage assessment
+
+Maximum Fine Accumulation:
+- Fine cannot exceed the cost of the book
+- Unpaid fines block library access and exam registration
+
+READING ROOM
+-------------
+Location: Library First Floor
+Capacity: 150 students
+Timings: 8:00 AM to 9:00 PM (Monday to Saturday), 9:00 AM to 5:00 PM (Sunday)
+Rules:
+- Complete silence maintained at all times
+- Mobile phones must be on silent mode, no calls allowed
+- Food and beverages strictly not allowed
+- Personal belongings (bags, large items) to be kept in locker room outside
+- Calculators and stationery allowed
+- Students can bring their own books/notes
+
+DIGITAL RESOURCES
+------------------
+1. NPTEL (National Programme on Technology Enhanced Learning)
+   - Access to video lectures from IIT/IISc professors
+   - Online certifications available
+   - Free access from all campus systems
+
+2. N-LIST (National Library and Information Services Infrastructure)
+   - 6,000+ e-journals
+   - 97,355+ e-books
+   - Access from campus network or via VPN
+
+3. Shodhganga
+   - Indian Electronic Theses and Dissertations
+   - PhD thesis submissions from Indian universities
+   - Free access
+
+4. IEEE Xplore (Departmental access)
+   - Technical papers and journals
+   - Conference proceedings
+   - Available through IEEE Student Branch membership
+
+5. DELNET (Developing Library Network)
+   - Inter-library loan facility
+   - Book sharing across member libraries
+   - Union catalogue access
+
+6. College ERP Library Module
+   - Online book search (OPAC)
+   - View borrowed books and due dates
+   - Renew books online
+   - Check fine status
+   URL: gnits.ac.in/library or through ERP portal
+
+INTER-LIBRARY LOAN (ILL)
+--------------------------
+- Books not available in GNITS library can be requested from partner libraries
+- Submit inter-library loan request form to librarian
+- Processing time: 3 to 7 working days
+- Available through DELNET network
+
+REFERENCE SECTION
+------------------
+Location: Library Ground Floor - Reference Section
+Contains:
+- Encyclopedias and dictionaries
+- Standards and codes (BIS, ISO)
+- GATE preparation books
+- Competitive exam books (UPSC, APPSC, GRE, TOEFL, GMAT)
+- Project and thesis reference guides
+Rules: Reference books cannot be taken out; in-library use only
+
+NEW ARRIVALS SECTION
+---------------------
+- New books displayed for one week in New Arrivals section at library entrance
+- Students can recommend books for purchase (form available at counter)
+- Monthly new arrivals list on library notice board and website
+
+LIBRARY RULES AND CONDUCT
+---------------------------
+1. Library card must be presented for all transactions
+2. Strict silence to be maintained in the library
+3. Mobile phones must be switched off or on silent mode
+4. Food, beverages, and chewing gum not allowed
+5. Students must sign in the entry register at the entrance
+6. Bags must be deposited in the bag counter outside
+7. Borrowed books must be returned on or before due date
+8. Writing, marking, or tearing of library books is a punishable offense
+9. Rearranging books on shelves is not permitted; books to be placed on return trolleys
+10. Misbehavior or creating disturbance will result in library membership suspension
+
+SPECIAL SERVICES
+-----------------
+Photocopying: Available near the library at Rs. 1 per page
+Printing: Available at library help desk at Rs. 3 per page (B&W)
+Book Binding: Arrangement available for project reports at nominal cost
+Newspaper Section: Daily newspapers available (The Hindu, Times of India, Deccan Chronicle, Eenadu, Sakshi)
+Magazine Section: Popular science and technology magazines available
